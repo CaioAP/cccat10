@@ -1,0 +1,9 @@
+# Configuring
+
+First run the following command to install the dependencies:
+`npm install` or `yarn install`
+
+# Start server
+
+Run the following command to generate and start the server:
+`npm run start` ou `yarn start`
