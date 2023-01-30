@@ -1,9 +1,13 @@
-# Configuring
+# Clean Code & Clean Architecture
+
+Projeto do curso Clean Code e Clean Architecture da turma 10 do Rodrigo Branas.
+
+## Configuring
 
 First run the following command to install the dependencies:
 `npm install` or `yarn install`
 
-# Start server
+## Run server
 
 Run the following command to generate and start the server:
 `npm run start` ou `yarn start`
